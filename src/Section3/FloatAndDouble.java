@@ -18,5 +18,15 @@ public class FloatAndDouble {
 //		float myFloatValue = (float) 5.25; //Example of using casting to correct an error
 		float myFloatValue = 5f;
 		double myDoubleValue = 5d;
+
+		//Challenge
+		double numberOfPounds = 200d;
+		double convertedKilograms = numberOfPounds * 0.45359237d;
+		System.out.println("Converted Kilograms = " + convertedKilograms);
+
+		double pi = 3.1415927d;
+		double anotherNumber = 3_000_000.4_567_890d;
+		System.out.println(pi);
+		System.out.println(anotherNumber);
 	}
 }
