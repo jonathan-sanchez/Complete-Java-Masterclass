@@ -15,7 +15,8 @@ public class FloatAndDouble {
 		System.out.println("Double Maximum Value = " + myMaxFloatValue);
 
 		int myIntValue = 5;
-		float myFloatValue = (float) 5.25; //Example of using casting to correct an error
-		double myDoubleValue = 5.25d;
+//		float myFloatValue = (float) 5.25; //Example of using casting to correct an error
+		float myFloatValue = 5f;
+		double myDoubleValue = 5d;
 	}
 }
