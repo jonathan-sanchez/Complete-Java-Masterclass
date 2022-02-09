@@ -10,7 +10,7 @@ public class Main {
 //		MegaBytesConverter.printMegaBytesAndKiloBytes(5000);
 
 		//Exercise 3: Barking Dog
-//		System.out.println(BarkingDog.shouldWakeUp(true, 21));
+		System.out.println(BarkingDog.shouldWakeUp(true, 23));
 
 	}
 }
