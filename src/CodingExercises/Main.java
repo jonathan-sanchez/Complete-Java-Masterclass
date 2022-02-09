@@ -7,7 +7,7 @@ public class Main {
 //		SpeedConverter.printConversion(75.114);
 
 		//Exercise 2: MegaBytes Converter
-
+		MegaBytesConverter.printMegaBytesAndKiloBytes(5000);
 
 	}
 }
