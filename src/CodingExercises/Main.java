@@ -10,7 +10,10 @@ public class Main {
 //		MegaBytesConverter.printMegaBytesAndKiloBytes(5000);
 
 		//Exercise 3: Barking Dog
-		System.out.println(BarkingDog.shouldWakeUp(true, 23));
+//		System.out.println(BarkingDog.shouldWakeUp(true, 23));
+
+		//Exercise 4: Leap Year Calculator
+		System.out.println(LeapYearCalculator.isLeapYear(2000));
 
 	}
 }
