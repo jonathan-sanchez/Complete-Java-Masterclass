@@ -19,7 +19,10 @@ public class Main {
 //		System.out.println(DecimalComparator.areEqualByThreeDecimalPlaces(-3.1756, -3.175));
 
 		//Exercise 6: Equal Sum Checker
-		System.out.println();
+//		System.out.println(EqualSumChecker.hasEqualSum(1, -1, 0));
+
+		//Exercise 7: Teen Number Checker
+
 
 	}
 }
