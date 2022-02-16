@@ -22,7 +22,7 @@ public class Main {
 //		System.out.println(EqualSumChecker.hasEqualSum(1, -1, 0));
 
 		//Exercise 7: Teen Number Checker
-
+		System.out.println(TeenNumberChecker.hasTeen(22, 23, 34));
 
 	}
 }
