@@ -23,6 +23,7 @@ public class Main {
 
 		//Exercise 7: Teen Number Checker
 		System.out.println(TeenNumberChecker.hasTeen(22, 23, 34));
+		System.out.println(TeenNumberChecker.isTeen(13));
 
 	}
 }
