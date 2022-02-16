@@ -11,4 +11,8 @@ public class TeenNumberChecker {
 			return false;
 		}
 	}
+
+	public static boolean isTeen(int a) {
+
+	}
 }
