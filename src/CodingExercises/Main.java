@@ -13,7 +13,10 @@ public class Main {
 //		System.out.println(BarkingDog.shouldWakeUp(true, 23));
 
 		//Exercise 4: Leap Year Calculator
-		System.out.println(LeapYearCalculator.isLeapYear(2000));
+//		System.out.println(LeapYearCalculator.isLeapYear(2000));
+
+		//Exercise 5: Decimal Comparator
+
 
 	}
 }
