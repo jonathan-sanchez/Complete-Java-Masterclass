@@ -5,7 +5,9 @@ public class MinutesToYearsAndDaysCalculator {
 	public static void printDaysAndYears(long minutes) {
 
 		if (minutes < 0) {
+
 			System.out.println("Invalid Value");
+
 		} else {
 
 			long years = minutes / 525600;
