@@ -26,7 +26,10 @@ public class Main {
 //		System.out.println(TeenNumberChecker.isTeen(13));
 
 		//Exercise 8: Area Calculator
-		System.out.println(AreaCalculator.area(-1.0, 4.0));
+//		System.out.println(AreaCalculator.area(-1.0, 4.0));
+
+		//Exercise 9: Minutes To Years and Days Calculator
+		MinutesToYearsAndDaysCalculator.printDaysAndYears(525600);
 
 	}
 }
