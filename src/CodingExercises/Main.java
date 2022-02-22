@@ -32,7 +32,10 @@ public class Main {
 //		MinutesToYearsAndDaysCalculator.printDaysAndYears(525600);
 
 		//Exercise 10: Equality Printer
-		EqualityPrinter.printEqual(1,1,2);
+//		EqualityPrinter.printEqual(1,1,2);
+
+		//Exercise 11: Playing Cat
+
 
 	}
 }
