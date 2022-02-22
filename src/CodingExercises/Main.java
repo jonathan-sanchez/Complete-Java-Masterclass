@@ -29,7 +29,10 @@ public class Main {
 //		System.out.println(AreaCalculator.area(-1.0, 4.0));
 
 		//Exercise 9: Minutes To Years and Days Calculator
-		MinutesToYearsAndDaysCalculator.printDaysAndYears(525600);
+//		MinutesToYearsAndDaysCalculator.printDaysAndYears(525600);
+
+		//Exercise 10: Equality Printer
+
 
 	}
 }
