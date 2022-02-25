@@ -35,7 +35,7 @@ public class Main {
 //		EqualityPrinter.printEqual(1,1,2);
 
 		//Exercise 11: Playing Cat
-
+		System.out.println(PlayingCat.isCatPlaying(false, 35));
 
 	}
 }
